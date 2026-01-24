@@ -1,0 +1,15 @@
+property_url,property_code,type_of_property,postal_code,locality,price,number_of_bedrooms,number_of_bathrooms,livable_surface,total_land_surface,surface_garden,surface_terrace,garden,terrace,swimming_pool,number_of_facades,number_of_floors,state_of_the_property,kitchen_type,kitchen_equipment,type_of_heating,furnished,garage
+https://immovlan.be/en/detail/garage/for-rent/2930/brasschaat/rbv04097,RBV04097,Garage,2930,Brasschaat,135 €,,,,,,,,,,,,,,,,,
+https://immovlan.be/en/detail/residence/for-sale/2610/wilrijk/rbv04090,RBV04090,Residence,2610,Wilrijk,379 000 €,2,1,88 m²,240 m²,,,Yes,Yes,,2,,Normal,,,Gas,No,
+https://immovlan.be/en/detail/studio/for-rent/2060/antwerp/rbv03620,RBV03620,Studio,2060,Antwerp,710 €,,,52 m²,,,,No,Yes,,2,4,New,,,,No,
+https://immovlan.be/en/detail/residence/for-sale/2260/zoerle-parwijs/rbv03351,RBV03351,Residence,2260,Zoerle-Parwijs,410 000 €,3,1,150 m²,767 m²,,20 m²,Yes,Yes,,4,1,New,,,,No,Yes
+https://immovlan.be/en/detail/studio/for-rent/2000/antwerp/rbv03340,RBV03340,Studio,2000,Antwerp,695 €,1,1,36 m²,,,,No,No,,2,9,Normal,,,,Yes,
+https://immovlan.be/en/detail/residence/for-sale/1500/halle/rbv04931,RBV04931,Residence,1500,Halle,420 000 €,4,1,171 m²,,,,Yes,Yes,,,,New,,,,No,
+https://immovlan.be/en/detail/residence/for-sale/1970/wezembeek-oppem/rbv03333,RBV03333,Residence,1970,Wezembeek-Oppem,620 000 €,4,2,206 m²,,240 m²,37 m²,Yes,Yes,No,3,,,,Fully equipped,Gas,No,Yes
+https://immovlan.be/en/detail/residence/for-sale/3040/huldenberg/vbd72784,VBD72784,Residence,3040,Huldenberg,Make offer from 549 000 €,3,2,255 m²,471 m²,307 m²,16 m²,Yes,Yes,No,3,3,Normal,,,Gas,No,
+https://immovlan.be/en/detail/villa/for-rent/3090/overijse/vbd72216,VBD72216,Villa,3090,Overijse,2 650 €,5,2,300 m²,867 m²,,,Yes,Yes,,4,,Normal,,,Gas,,
+https://immovlan.be/en/detail/residence/for-sale/3070/kortenberg/rbv00853,RBV00853,Residence,3070,Kortenberg,469 500 €,4,1,168 m²,,,,Yes,No,,,,Normal,,,,No,Yes
+https://immovlan.be/en/detail/residence/for-sale/3070/kortenberg/rbv00846,RBV00846,Residence,3070,Kortenberg,489 000 €,5,1,211 m²,,,,Yes,No,,,,Normal,,,,No,Yes
+https://immovlan.be/en/detail/residence/for-sale/1730/asse/vbd65753,VBD65753,Residence,1730,Asse,399 000 €,3,1,210 m²,1000 m²,,7 m²,Yes,Yes,,3,,To renovate,,Fully equipped,Gas,,Yes
+https://immovlan.be/en/detail/residence/for-sale/1820/steenokkerzeel/rbu99939,RBU99939,Residence,1820,Steenokkerzeel,379 000 €,2,1,196 m²,320 m²,,,Yes,No,,2,,To be renovated,,,Gas,,Yes
+https://immovlan.be/en/detail/apartment/for-sale/1600/sint-pieters-leeuw/vbd70926,VBD70926,Apartment,1600,Sint-Pieters-Leeuw,Make offer from 190 000 €,1,1,52 m²,,,7 m²,No,Yes,No,2,3,Excellent,,,,No,Yes

@@ -1,0 +1,6 @@
+property_url,property_code,type_of_property,postal_code,locality,price,number_of_bedrooms,number_of_bathrooms,livable_surface,total_land_surface,surface_garden,surface_terrace,garden,terrace,swimming_pool,number_of_facades,number_of_floors,state_of_the_property,kitchen_type,kitchen_equipment,type_of_heating,furnished,garage
+https://immovlan.be/en/detail/garage/for-rent/2930/brasschaat/rbv04097,RBV04097,Garage,2930,Brasschaat,135,0,0,0,0,0,0,0,0,0,0,0,,,,,0,0
+https://immovlan.be/en/detail/residence/for-sale/2610/wilrijk/rbv04090,RBV04090,Residence,2610,Wilrijk,379,20,10,88,240,0,0,1,1,0,20,0,Normal,,,Gas,0,0
+https://immovlan.be/en/detail/studio/for-rent/2060/antwerp/rbv03620,RBV03620,Studio,2060,Antwerp,710,0,0,52,0,0,0,0,1,0,20,40,New,,,,0,0
+https://immovlan.be/en/detail/residence/for-sale/2260/zoerle-parwijs/rbv03351,RBV03351,Residence,2260,Zoerle-Parwijs,410,30,10,150,767,0,20,1,1,0,40,10,New,,,,0,1
+https://immovlan.be/en/detail/studio/for-rent/2000/antwerp/rbv03340,RBV03340,Studio,2000,Antwerp,695,10,10,36,0,0,0,0,0,0,20,90,Normal,,,,1,0

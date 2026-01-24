@@ -1,0 +1,13 @@
+# Scraping & Automation
+selenium==4.18.1
+fake-useragent==1.5.1
+beautifulsoup4==4.12.3
+requests==2.32.3
+lxml==5.2.2
+
+# Data Processing
+pandas==2.2.2
+
+# Machine Learning
+scikit-learn==1.5.1
+joblib==1.4.2
