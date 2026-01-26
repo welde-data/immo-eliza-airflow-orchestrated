@@ -1,0 +1,216 @@
+property_url,property_code,property_type,price_eur,cadastral_income_eur,postal_code,locality_name,state_of_the_property,currently_leased,build_year,bedrooms,bathrooms,toilets,livable_surface_m2,total_land_surface_m2,terrace_m2,garden_m2,heating_type,epc_kwh_m2_year,swimming_pool
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbv08313,RBV08313,apartment,244000,,2300,Turnhout,New,No,2024,1,1,1,83,,9,,Not specified,,
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbv08282,RBV08282,apartment,202000,,2300,Turnhout,New,No,2024,1,1,1,65,,6,,Not specified,,
+https://immovlan.be/en/detail/apartment/for-sale/2610/wilrijk/rbv07675,RBV07675,apartment,250000,462,2610,Wilrijk,Normal,No,1951,2,,,85,,,,Gas,199,
+https://immovlan.be/en/detail/master-house/for-sale/2000/antwerp/rbv07668,RBV07668,house,475000,,2000,Antwerp,Normal,No,,2,1,1,142,49,12,,Gas,844,
+https://immovlan.be/en/detail/apartment/for-sale/2200/herentals/rbv07596,RBV07596,apartment,235000,,2200,Herentals,Normal,No,1963,1,1,,73,,3,,Gas,283,
+https://immovlan.be/en/detail/residence/for-sale/2060/antwerp/rbv07563,RBV07563,house,590000,,2060,Antwerp,,No,1948,8,4,,323,116,,,,1,
+https://immovlan.be/en/detail/residence/for-sale/2200/herentals/rbv06453,RBV06453,house,545000,,2200,Herentals,New,No,1961,4,1,,206,264,,,,90,
+https://immovlan.be/en/detail/residence/for-sale/2260/westerlo/rbv06313,RBV06313,house,495000,,2260,Westerlo,New,No,2024,4,1,2,183,430,16,,,,
+https://immovlan.be/en/detail/residence/for-sale/2610/wilrijk/rbv04090,RBV04090,house,379000,,2610,Wilrijk,Normal,No,,2,1,,88,240,,,Gas,282,
+https://immovlan.be/en/detail/residence/for-sale/2260/zoerle-parwijs/rbv03351,RBV03351,house,410000,,2260,Zoerle-Parwijs,New,No,2024,3,1,2,150,767,20,,,,
+https://immovlan.be/en/detail/residence/for-sale/2800/mechelen/rbv02888,RBV02888,house,245000,,2800,Mechelen,To be renovated,No,1850,3,1,1,83,,,,Electricity,227,
+https://immovlan.be/en/detail/residence/for-sale/2500/lier/rbv02756,RBV02756,house,305000,406,2500,Lier,Normal,No,1899,3,1,1,107,145,8,100,Gas,279,
+https://immovlan.be/en/detail/residence/for-sale/3090/overijse/vbd77780,VBD77780,house,400000,,3090,Overijse,,No,1964,3,1,2,189,963,,,Fuel oil,498,No
+https://immovlan.be/en/detail/residence/for-sale/1640/sint-genesius-rode/rbv09033,RBV09033,house,790000,,1640,Sint-Genesius-Rode,To be renovated,No,1963,3,2,,244,697,,,Gas,235,
+https://immovlan.be/en/detail/villa/for-sale/1640/sint-genesius-rode/rbv09028,RBV09028,house,1150000,,1640,Sint-Genesius-Rode,Normal,No,,5,4,5,,1582,,,Fuel oil,356,Yes
+https://immovlan.be/en/detail/residence/for-sale/1982/weerde/rbv08205,RBV08205,house,989000,,1982,Weerde,Normal,,1985,7,3,4,438,1832,,,,138,
+https://immovlan.be/en/detail/residence/for-sale/1980/zemst/rbv08204,RBV08204,house,549000,,1980,Zemst,Normal,,1963,3,1,2,190,1228,,,Gas,298,
+https://immovlan.be/en/detail/residence/for-sale/1933/sterrebeek/rbv08178,RBV08178,house,259000,956,1933,Sterrebeek,To be renovated,,,3,1,1,78,,,26,Gas,861,
+https://immovlan.be/en/detail/residence/for-sale/1853/strombeek-bever/vbd74716,VBD74716,house,495000,1246,1853,Strombeek-Bever,,No,1970,4,1,2,170,,,,Gas,530,
+https://immovlan.be/en/detail/residence/for-sale/1500/halle/rbv04931,RBV04931,house,420000,,1500,Halle,New,No,,4,1,2,171,,,,,,
+https://immovlan.be/en/detail/residence/for-sale/1730/asse/vbd65753,VBD65753,house,399000,,1730,Asse,To renovate,,1978,3,1,2,210,1000,7,,Gas,304,
+https://immovlan.be/en/detail/residence/for-sale/3070/kortenberg/rbv00846,RBV00846,house,489000,,3070,Kortenberg,Normal,No,,5,1,2,211,,,,,,
+https://immovlan.be/en/detail/loft/for-sale/1601/ruisbroek/vbd57623,VBD57623,loft,425000,1726,1601,Ruisbroek,Excellent,No,1925,1,1,1,180,,15,,Gas,211,
+https://immovlan.be/en/detail/residence/for-sale/1820/steenokkerzeel/rbu99939,RBU99939,house,379000,686,1820,Steenokkerzeel,To be renovated,No,1930,2,1,,196,320,,,Gas,270,
+https://immovlan.be/en/detail/apartment/for-sale/1640/sint-genesius-rode/rbu95136,RBU95136,apartment,375000,1398,1640,Sint-Genesius-Rode,Excellent,No,,2,1,1,96,,,,,120,
+https://immovlan.be/en/detail/residence/for-sale/1570/tollembeek/rbv09996,RBV09996,house,369000,,1570,Tollembeek,New,No,,3,1,2,156,331,,,,,
+https://immovlan.be/en/detail/residence/for-sale/1570/tollembeek/rbv09995,RBV09995,house,389000,,1570,Tollembeek,New,No,,3,1,2,156,759,,,,,
+https://immovlan.be/en/detail/residence/for-sale/3018/wijgmaal/rbv09968,RBV09968,house,590000,1186,3018,Wijgmaal,New,No,2018,3,1,2,187,465,,,Electricity,10,
+https://immovlan.be/en/detail/apartment/for-sale/1930/zaventem/rbv09942,RBV09942,apartment,370000,,1930,Zaventem,,,,2,1,1,104,,10,,Gas,90,
+https://immovlan.be/en/detail/residence/for-sale/1500/halle/rbv09933,RBV09933,house,,875,1500,Halle,To renovate,,1973,2,1,,151,278,,165,Gas,442,
+https://immovlan.be/en/detail/residence/for-sale/3461/molenbeek-wersbeek/rbv09858,RBV09858,house,389000,,3461,Molenbeek-Wersbeek,New,No,2025,3,,2,172,456,,,,,
+https://immovlan.be/en/detail/apartment/for-sale/1785/merchtem/rbv09796,RBV09796,apartment,274000,854,1785,Merchtem,Normal,No,2001,2,1,1,80,,,,Gas,110,
+https://immovlan.be/en/detail/residence/for-sale/1780/wemmel/rbv09794,RBV09794,house,325000,642,1780,Wemmel,To be renovated,No,1918,4,1,2,159,216,,,Fuel oil,630,
+https://immovlan.be/en/detail/residence/for-sale/1560/hoeilaart/rbv09792,RBV09792,house,300000,1982,1560,Hoeilaart,To be renovated,No,1910,2,1,,330,500,30,100,Gas,,
+https://immovlan.be/en/detail/residence/for-sale/1601/ruisbroek/rbv09776,RBV09776,house,195000,588,1601,Ruisbroek,To be renovated,,,4,1,,95,193,,,Gas,552,
+https://immovlan.be/en/detail/residence/for-sale/1703/schepdaal/rbv09773,RBV09773,house,349000,466,1703,Schepdaal,Normal,,1946,3,1,,203,132,14,,Gas,103,
+https://immovlan.be/en/detail/apartment/for-sale/1300/wavre/vbd77220,VBD77220,apartment,290000,,1300,Wavre,,No,,2,1,1,80,,24,,,186,
+https://immovlan.be/en/detail/apartment/for-sale/1325/chaumont-gistoux/vbd76856,VBD76856,apartment,315000,970,1325,Chaumont-Gistoux,Excellent,,2009,2,1,1,73,,,,,102,No
+https://immovlan.be/en/detail/villa/for-sale/1430/rebecq/vbd76838,VBD76838,house,675000,1388,1430,Rebecq,Normal,No,1989,4,4,2,275,1800,38,266,Hot air,197,No
+https://immovlan.be/en/detail/mixed-building/for-sale/1480/tubize/vbd75183,VBD75183,mixed-building,465000,,1480,Tubize,Normal,Yes,,4,2,3,225,177,45,,Gas,248,No
+https://immovlan.be/en/detail/residence/for-sale/1440/braine-le-chateau/vbd72510,VBD72510,house,1165000,,1440,Braine-le-Château,Excellent,,1971,4,2,2,340,19000,35,,Fuel oil,239,No
+https://immovlan.be/en/detail/triplex/for-sale/1480/tubize/vbd69155,VBD69155,triplex,280000,1050,1480,Tubize,Normal,No,1977,3,2,2,168,,21,,Gas,274,No
+https://immovlan.be/en/detail/apartment/for-sale/1480/clabecq/vbd78158,VBD78158,apartment,230000,327,1480,Clabecq,Normal,No,,1,,1,90,,,,,303,
+https://immovlan.be/en/detail/residence/for-sale/1430/bierghes/vbd78154,VBD78154,house,250000,,1430,Bierghes,To be renovated,No,,3,1,1,150,643,,,Fuel oil,423,
+https://immovlan.be/en/detail/mixed-building/for-sale/1400/nivelles/vbd78102,VBD78102,mixed-building,450000,,1400,Nivelles,To be renovated,No,,5,4,7,335,150,,,Gas,246,
+https://immovlan.be/en/detail/residence/in-public-sale/1420/braine-l-alleud/vbd78052,VBD78052,house,175000,451,1420,Braine-l'Alleud,To be renovated,No,,2,,,,,,,,496,
+https://immovlan.be/en/detail/residence/for-sale/1350/folx-les-caves/vwd16401,VWD16401,house,450000,,1350,Folx-les-Caves,Excellent,,2025,4,2,,180,,,455,Electricity,9,
+https://immovlan.be/en/detail/apartment/for-sale/1300/wavre/vbd78024,VBD78024,apartment,415000,,1300,Wavre,New,No,2025,2,1,1,95,,11,,,45,
+https://immovlan.be/en/detail/penthouse/for-sale/1300/wavre/vbd78023,VBD78023,penthouse,585000,,1300,Wavre,New,No,2025,3,2,2,164,,37,,,45,
+https://immovlan.be/en/detail/apartment/for-sale/1420/braine-l-alleud/vbd78021,VBD78021,apartment,439000,,1420,Braine-l'Alleud,New,,2023,3,2,2,126,,14,,Gas,93,
+https://immovlan.be/en/detail/apartment/for-sale/1300/wavre/vbd78018,VBD78018,apartment,899000,,1300,Wavre,New,,2026,4,3,3,168,,105,,,85,
+https://immovlan.be/en/detail/residence/for-sale/1370/saint-jean-geest/vbd77988,VBD77988,house,425000,,1370,Saint-Jean-Geest,To be renovated,No,1992,3,2,2,200,1235,,,Fuel oil,318,
+https://immovlan.be/en/detail/apartment/for-sale/9920/lievegem/rbv08591,RBV08591,apartment,179500,443,9920,Lievegem,Excellent,No,1992,1,1,,43,,,,Electricity,396,
+https://immovlan.be/en/detail/mixed-building/for-sale/9600/ronse/rbv08104,RBV08104,mixed-building,495000,1582,9600,Ronse,Normal,No,1976,6,4,4,200,107,,,,,No
+https://immovlan.be/en/detail/residence/for-sale/9600/ronse/rbv03887,RBV03887,house,299000,642,9600,Ronse,Fully renovated,No,1956,5,2,2,171,240,,154,Fuel oil,368,No
+https://immovlan.be/en/detail/residence/for-sale/9990/maldegem/rbu66095,RBU66095,house,550000,1598,9990,Maldegem,Excellent,No,1993,4,2,,343,743,,,Gas,199,
+https://immovlan.be/en/detail/apartment/for-sale/8300/knokke-heist/rbv09297,RBV09297,apartment,349000,746,8300,Knokke-Heist,Fully renovated,No,2000,1,1,1,73,,,,,222,
+https://immovlan.be/en/detail/studio/for-sale/8800/roeselare/rbv09061,RBV09061,studio,92500,,8800,Roeselare,,No,1968,,1,1,37,,,,Gas,176,
+https://immovlan.be/en/detail/residence/for-sale/8400/oostende/rbv08035,RBV08035,house,449000,1487,8400,Oostende,To be renovated,No,1970,2,1,1,180,448,21,287,Gas,495,
+https://immovlan.be/en/detail/residence/for-sale/8490/jabbeke/rwc41650,RWC41650,house,459850,,8490,Jabbeke,Excellent,,2025,4,1,,212,,,,Not specified,20,
+https://immovlan.be/en/detail/apartment/for-sale/8370/blankenberge/rwc41649,RWC41649,apartment,348800,,8370,Blankenberge,Excellent,,2025,3,1,,115,,,,Not specified,15,
+https://immovlan.be/en/detail/residence/for-sale/8370/blankenberge/rwc41648,RWC41648,house,348800,,8370,Blankenberge,Excellent,,2025,3,1,,115,,,,Not specified,15,
+https://immovlan.be/en/detail/residence/for-sale/8940/wervik/rwc41641,RWC41641,house,163000,379,8940,Wervik,Normal,No,,3,1,,115,397,,,Gas,435,No
+https://immovlan.be/en/detail/apartment/for-sale/8301/duinbergen/rbv06746,RBV06746,apartment,615000,,8301,Duinbergen,,No,1985,2,2,2,92,,,,,,
+https://immovlan.be/en/detail/residence/for-sale/8680/koekelare/rbv04907,RBV04907,house,685000,,8680,Koekelare,,No,1980,3,2,3,298,5680,,,,233,
+https://immovlan.be/en/detail/apartment/for-sale/8300/knokke-heist/rbv04674,RBV04674,apartment,850000,1470,8300,Knokke-Heist,Excellent,No,,2,1,1,106,,,,,97,
+https://immovlan.be/en/detail/apartment/for-sale/8400/oostende/raq40166,RAQ40166,apartment,316000,,8400,Oostende,New,No,,2,,,,,,,,0,
+https://immovlan.be/en/detail/residence/for-sale/8680/koekelare/rbv01998,RBV01998,house,399000,,8680,Koekelare,,No,2026,3,1,2,160,550,34,,Electricity,,
+https://immovlan.be/en/detail/apartment/for-sale/8840/staden/rbu74362,RBU74362,apartment,269500,,8840,Staden,New,No,2024,2,1,1,92,,,,Electricity,,
+https://immovlan.be/en/detail/apartment/for-sale/6180/courcelles/vbd77790,VBD77790,apartment,85000,877,6180,Courcelles,Normal,No,1979,2,1,1,108,,4,,Gas,230,No
+https://immovlan.be/en/detail/residence/for-sale/6183/trazegnies/vbd77778,VBD77778,house,375000,942,6183,Trazegnies,Excellent,,1887,8,1,3,393,664,,,Gas,194,Yes
+https://immovlan.be/en/detail/bungalow/for-sale/7730/estaimpuis/vbd77559,VBD77559,bungalow,545000,,7730,Estaimpuis,,No,2010,4,2,2,284,1251,,,Not specified,,
+https://immovlan.be/en/detail/residence/for-sale/6567/merbes-le-chateau/vbd77280,VBD77280,house,149000,,6567,Merbes-le-Château,Excellent,No,,2,1,,,,,,Gas,584,
+https://immovlan.be/en/detail/residence/for-sale/6240/farciennes/vbd77152,VBD77152,house,140000,376,6240,Farciennes,To renovate,,1900,2,1,1,151,728,45,616,Gas,550,No
+https://immovlan.be/en/detail/residence/for-sale/6061/montignies-sur-sambre/vbd77085,VBD77085,house,210000,386,6061,Montignies-sur-Sambre,Normal,No,1850,3,,1,160,300,35,122,Fuel oil,416,
+https://immovlan.be/en/detail/apartment/for-sale/7130/bray/vbd76785,VBD76785,apartment,230000,710,7130,Bray,Excellent,No,2008,3,1,1,128,,,,Gas,170,No
+https://immovlan.be/en/detail/residence/for-sale/7100/la-louviere/vbd76645,VBD76645,house,139000,446,7100,La Louvière,To be renovated,,,2,1,1,146,343,24,,,474,
+https://immovlan.be/en/detail/residence/for-sale/7620/hollain/vbd76623,VBD76623,house,250000,643,7620,Hollain,To be renovated,No,1969,5,1,1,174,483,,,Fuel oil,296,
+https://immovlan.be/en/detail/residence/for-sale/6200/chatelet/vbd76499,VBD76499,house,149000,297,6200,Châtelet,Normal,,,2,1,1,,180,20,70,Gas,201,
+https://immovlan.be/en/detail/residence/for-sale/7540/kain/vbd76419,VBD76419,house,445000,1075,7540,Kain,Excellent,No,1977,4,2,2,240,1159,,,,224,
+https://immovlan.be/en/detail/residence/for-sale/6224/wanfercee-baulet/vbd76338,VBD76338,house,330000,,6224,Wanfercée-Baulet,Normal,,1977,4,1,2,152,1680,,1600,Fuel oil,411,No
+https://immovlan.be/en/detail/residence/for-sale/6041/gosselies/vbd76156,VBD76156,house,119000,509,6041,Gosselies,,No,,4,2,2,202,196,,,Gas,390,No
+https://immovlan.be/en/detail/residence/for-sale/6001/marcinelle/vbd75870,VBD75870,house,230000,461,6001,Marcinelle,Excellent,,,3,1,,120,335,10,250,,481,
+https://immovlan.be/en/detail/residence/for-sale/6240/pironchamps/vbd75811,VBD75811,house,125000,358,6240,Pironchamps,Normal,No,,4,,,140,,,,Gas,305,
+https://immovlan.be/en/detail/residence/for-sale/7033/cuesmes/vbd75790,VBD75790,house,179000,701,7033,Cuesmes,Normal,,,3,1,1,85,312,12,216,Gas,366,
+https://immovlan.be/en/detail/residence/for-sale/6141/forchies-la-marche/vbd75530,VBD75530,house,225000,,6141,Forchies-la-Marche,Normal,,,3,1,1,117,270,,210,Gas,331,
+https://immovlan.be/en/detail/residence/for-sale/6061/montignies-sur-sambre/vwd16319,VWD16319,house,79000,,6061,Montignies-sur-Sambre,To be renovated,,,2,,,110,,,,Not specified,601,
+https://immovlan.be/en/detail/residence/for-sale/6043/ransart/vbd75280,VBD75280,house,235000,382,6043,Ransart,Fully renovated,,,2,1,,126,451,20,343,,304,Yes
+https://immovlan.be/en/detail/villa/for-sale/7618/taintignies/vbd75157,VBD75157,house,350000,949,7618,Taintignies,Normal,,2001,5,1,3,189,2000,55,1824,Fuel oil,241,Yes
+https://immovlan.be/en/detail/apartment/for-sale/6001/marcinelle/vbd75063,VBD75063,apartment,135000,1130,6001,Marcinelle,Excellent,No,1964,2,1,2,154,,,,Gas,256,No
+https://immovlan.be/en/detail/residence/for-sale/7170/la-hestre/vbd75026,VBD75026,house,170000,,7170,La Hestre,To be renovated,,1899,4,1,1,153,170,13,86,Gas,395,
+https://immovlan.be/en/detail/residence/for-sale/7340/paturages/vbd74649,VBD74649,house,250000,,7340,Pâturages,,No,,6,,,400,225,,,Not specified,138,
+https://immovlan.be/en/detail/apartment/for-sale/6200/chatelet/vbd74641,VBD74641,apartment,195000,1070,6200,Châtelet,,No,,2,,1,104,,,,Not specified,163,
+https://immovlan.be/en/detail/cottage/for-sale/7910/anvaing/rbv05505,RBV05505,cottage,,,7910,Anvaing,Excellent,,,7,4,6,1500,20000,,150000,Fuel oil,167,Yes
+https://immovlan.be/en/detail/residence/for-sale/7860/lessines/vbd74313,VBD74313,house,280000,851,7860,Lessines,Normal,,2018,4,1,2,137,529,,474,Gas,128,
+https://immovlan.be/en/detail/villa/for-sale/6224/wanfercee-baulet/vbd74308,VBD74308,house,269000,1070,6224,Wanfercée-Baulet,Normal,,1975,3,1,1,130,762,,580,Fuel oil,315,
+https://immovlan.be/en/detail/apartment/for-sale/7500/tournai/vbd74282,VBD74282,apartment,120000,882,7500,Tournai,Normal,No,,2,1,1,104,,1,,Gas,218,No
+https://immovlan.be/en/detail/residence/for-sale/6200/bouffioulx/vbd74263,VBD74263,house,129000,,6200,Bouffioulx,To renovate,,,2,1,,135,840,,,Gas,564,
+https://immovlan.be/en/detail/residence/for-sale/6182/souvret/vbd73994,VBD73994,house,168000,333,6182,Souvret,,No,,4,,1,225,200,20,18,,231,
+https://immovlan.be/en/detail/residence/for-sale/6030/marchienne-au-pont/vbd73805,VBD73805,house,79000,267,6030,Marchienne-au-Pont,To be renovated,No,1875,2,,1,230,79,,,Not specified,582,
+https://immovlan.be/en/detail/villa/for-sale/1150/sint-pieters-woluwe/rbv09042,RBV09042,house,1495000,,1150,Sint-Pieters-Woluwe,Excellent,No,1968,5,4,5,340,1000,,,Fuel oil,257,Yes
+https://immovlan.be/en/detail/villa/for-sale/1180/ukkel/rbv09041,RBV09041,house,1295000,,1180,Ukkel,To be renovated,No,1970,4,,3,330,1200,,,Gas,798,
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/rbv09039,RBV09039,apartment,900000,,1180,Ukkel,Excellent,Yes,1992,3,,3,230,,40,,Gas,146,
+https://immovlan.be/en/detail/residence/for-sale/1000/brussels/rbv09036,RBV09036,house,1950000,,1000,Brussels,To be renovated,No,,6,,,558,267,,,Gas,250,
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/rbv09034,RBV09034,apartment,890000,,1180,Ukkel,Normal,No,1952,4,,,,,6,,Gas,184,
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/rbv09032,RBV09032,apartment,349000,,1180,Ukkel,To be renovated,No,1981,2,2,2,107,,21,,Gas,399,
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/rbv09031,RBV09031,apartment,350000,,1180,Ukkel,Excellent,No,,3,,,98,,9,,Gas,209,
+https://immovlan.be/en/detail/villa/for-sale/1180/ukkel/rbv09030,RBV09030,house,1450000,,1180,Ukkel,Excellent,No,,5,,,,802,,,Gas,207,
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/vbd76988,VBD76988,apartment,250000,,1140,Evere,Normal,No,,2,1,1,72,,7,,Gas,354,No
+https://immovlan.be/en/detail/residence/for-sale/1030/schaarbeek/vbd76862,VBD76862,house,365000,875,1030,Schaarbeek,To be renovated,No,1911,4,1,2,230,140,,50,Gas,550,No
+https://immovlan.be/en/detail/duplex/for-sale/1030/schaarbeek/vbd76861,VBD76861,duplex,289000,597,1030,Schaarbeek,To renovate,No,1900,2,1,1,112,,19,,Gas,469,No
+https://immovlan.be/en/detail/mixed-building/for-sale/1080/sint-jans-molenbeek/vbd76455,VBD76455,mixed-building,595000,1841,1080,Sint-Jans-Molenbeek,Excellent,Yes,1960,2,2,2,240,,20,135,Gas,160,
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd75845,VBD75845,apartment,209000,,1030,Schaarbeek,,No,1930,1,1,1,70,,5,,Gas,,
+https://immovlan.be/en/detail/apartment/for-sale/1170/watermaal-bosvoorde/vbd75770,VBD75770,apartment,300000,1363,1170,Watermaal-Bosvoorde,To be renovated,No,1958,3,1,1,107,,18,,Gas,308,
+https://immovlan.be/en/detail/apartment/for-sale/1160/oudergem/vbd75500,VBD75500,apartment,350000,1782,1160,Oudergem,Normal,Yes,1962,2,1,1,108,,50,,Gas,151,
+https://immovlan.be/en/detail/mixed-building/for-sale/1160/oudergem/vbd75303,VBD75303,mixed-building,399000,1524,1160,Oudergem,Normal,No,1915,3,1,,192,95,,,Not specified,686,No
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd75126,VBD75126,apartment,325000,1600,1180,Ukkel,Normal,,,1,1,1,73,,,,Gas,202,
+https://immovlan.be/en/detail/apartment/for-sale/1082/berchem-sainte-agathe/vbd74564,VBD74564,apartment,159000,,1082,Berchem-Sainte-Agathe,To renovate,No,1976,1,1,1,61,,7,,Gas,266,
+https://immovlan.be/en/detail/apartment/for-sale/1082/berchem-sainte-agathe/vbd74563,VBD74563,apartment,290000,,1082,Berchem-Sainte-Agathe,Normal,,,2,1,1,90,,61,,Gas,283,No
+https://immovlan.be/en/detail/residence/for-sale/1190/vorst/vbd74543,VBD74543,house,379000,361,1190,Vorst,Normal,,,4,2,3,145,250,,,Gas,497,
+https://immovlan.be/en/detail/residence/for-sale/1210/sint-joost-ten-node/vbd73963,VBD73963,house,399000,,1210,Sint-Joost-ten-Node,To renovate,Yes,1906,4,2,2,151,52,,,Gas,372,No
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd73653,VBD73653,apartment,265000,,1030,Schaarbeek,To be renovated,No,1938,2,1,1,81,,,,Gas,409,
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd73644,VBD73644,apartment,215000,,1030,Schaarbeek,Normal,,1932,2,1,1,83,,,,Gas,245,No
+https://immovlan.be/en/detail/studio/for-sale/4000/liege/vbd77137,VBD77137,studio,82000,,4000,Liege,Normal,No,,,,1,44,,,,Gas,155,
+https://immovlan.be/en/detail/studio/for-sale/4000/liege/vbd77136,VBD77136,studio,82000,,4000,Liege,Normal,No,,,,1,44,,,,Gas,155,
+https://immovlan.be/en/detail/apartment/for-sale/4000/liege/vbd77135,VBD77135,apartment,89000,,4000,Liege,,No,,1,,1,43,,,,Gas,207,
+https://immovlan.be/en/detail/apartment/for-sale/4000/liege/vbd77134,VBD77134,apartment,89000,,4000,Liege,,No,,1,,1,43,,,,Gas,207,
+https://immovlan.be/en/detail/apartment/for-sale/4020/liege/vbd77133,VBD77133,apartment,89000,,4020,Liege,,No,,1,,1,43,,,,Gas,207,
+https://immovlan.be/en/detail/studio/for-sale/4020/liege/vbd77132,VBD77132,studio,82000,,4020,Liege,Normal,No,,1,,1,44,,,,Gas,155,
+https://immovlan.be/en/detail/residence/for-sale/4030/grivegnee/vbd76661,VBD76661,house,200000,,4030,Grivegnée,Normal,,1930,3,1,1,,,,,,148,No
+https://immovlan.be/en/detail/mixed-building/for-sale/4101/jemeppe/vbd76317,VBD76317,mixed-building,165000,,4101,Jemeppe,Normal,,1930,3,4,3,220,374,,,,309,No
+https://immovlan.be/en/detail/residence/for-sale/4420/saint-nicolas/vbd76163,VBD76163,house,349000,,4420,Saint-Nicolas,New,,,4,2,3,138,60,10,,Gas,136,No
+https://immovlan.be/en/detail/apartment/for-sale/4000/rocourt/vwd16324,VWD16324,apartment,284000,,4000,Rocourt,,No,2025,2,,,94,,10,,Gas,,
+https://immovlan.be/en/detail/residence/for-sale/4420/saint-nicolas/vbd73695,VBD73695,house,215000,699,4420,Saint-Nicolas,,No,1964,2,,2,141,201,10,10,Fuel oil,281,
+https://immovlan.be/en/detail/residence/for-sale/4900/spa/vbd72760,VBD72760,house,270000,518,4900,Spa,Normal,No,,2,1,2,95,627,70,170,Gas,241,No
+https://immovlan.be/en/detail/residence/for-sale/4960/malmedy/vbd71627,VBD71627,house,585000,,4960,Malmedy,Normal,Yes,1980,4,2,3,146,2169,30,1865,Fuel oil,128,No
+https://immovlan.be/en/detail/penthouse/for-sale/4670/blegny/vbd68425,VBD68425,penthouse,479000,1234,4670,Blégny,Normal,,2020,3,1,1,150,,75,,Gas,108,No
+https://immovlan.be/en/detail/residence/for-sale/4420/tilleur/vbd78138,VBD78138,house,90000,,4420,Tilleur,,No,,1,1,1,50,34,,,Gas,461,
+https://immovlan.be/en/detail/residence/for-sale/4420/tilleur/vbd78137,VBD78137,house,90000,,4420,Tilleur,,No,,1,1,1,50,34,,,Gas,565,
+https://immovlan.be/en/detail/residence/for-sale/4690/bassenge/vbd78114,VBD78114,house,210000,,4690,Bassenge,,No,,3,1,,126,453,57,,Gas,480,
+https://immovlan.be/en/detail/residence/for-sale/4250/geer/vbd78113,VBD78113,house,279000,,4250,Geer,,No,,5,,,278,894,37,,Fuel oil,1041,
+https://immovlan.be/en/detail/residence/for-sale/4610/bellaire/vbd78112,VBD78112,house,285000,,4610,Bellaire,,No,,2,,,188,643,,,Gas,439,
+https://immovlan.be/en/detail/residence/for-sale/4670/trembleur/vbd78110,VBD78110,house,2950000,,4670,Trembleur,,No,,29,10,,1848,5000,,,Gas,311,
+https://immovlan.be/en/detail/residence/for-sale/3900/pelt/rbu61967,RBU61967,house,304000,,3900,Pelt,New,No,,3,1,,,138,,,,,
+https://immovlan.be/en/detail/residence/for-sale/3900/pelt/rbu61965,RBU61965,house,304000,,3900,Pelt,New,No,,3,1,,,138,,,,,
+https://immovlan.be/en/detail/residence/for-sale/3550/heusden/rbv09953,RBV09953,house,579000,,3550,Heusden,,No,2013,3,1,2,223,450,,,Not specified,228,
+https://immovlan.be/en/detail/residence/for-sale/3550/heusden-zolder/rbv09952,RBV09952,house,395000,,3550,Heusden-Zolder,Normal,No,2003,3,1,2,138,495,,,Gas,241,
+https://immovlan.be/en/detail/residence/for-sale/3582/koersel/rbv09910,RBV09910,house,420000,,3582,Koersel,,No,1952,,,,316,508,,,Gas,269,
+https://immovlan.be/en/detail/residence/for-sale/3583/paal/rbv09909,RBV09909,house,499000,,3583,Paal,,No,1999,3,1,2,184,1043,30,,Fuel oil,274,
+https://immovlan.be/en/detail/residence/for-sale/3803/duras/rbv09908,RBV09908,house,390000,,3803,Duras,,No,2026,4,1,2,152,187,15,,Not specified,0,
+https://immovlan.be/en/detail/residence/for-sale/3660/opglabbeek/rbv09734,RBV09734,house,269000,,3660,Opglabbeek,,No,1974,3,2,2,161,736,,,Fuel oil,787,
+https://immovlan.be/en/detail/residence/for-sale/3690/zutendaal/rbv09632,RBV09632,house,208000,,3690,Zutendaal,,,,2,2,,,,,,,,
+https://immovlan.be/en/detail/residence/for-sale/3690/zutendaal/rbv09631,RBV09631,house,259000,,3690,Zutendaal,,,,3,1,,,,,,,,
+https://immovlan.be/en/detail/residence/for-sale/3690/zutendaal/rbv09630,RBV09630,house,259000,,3690,Zutendaal,,,,3,1,,,,,,,,
+https://immovlan.be/en/detail/residence/for-sale/3690/zutendaal/rbv09572,RBV09572,house,289500,,3690,Zutendaal,,,,3,1,,,,,,,,
+https://immovlan.be/en/detail/residence/for-sale/3690/zutendaal/rbv09571,RBV09571,house,289500,,3690,Zutendaal,,,,3,1,,,,,,,,
+https://immovlan.be/en/detail/residence/for-sale/3690/zutendaal/rbv09570,RBV09570,house,289500,,3690,Zutendaal,,,,3,1,,,,,,,,
+https://immovlan.be/en/detail/residence/for-sale/3690/zutendaal/rbv09569,RBV09569,house,289500,,3690,Zutendaal,,,,3,1,,,,,,,,
+https://immovlan.be/en/detail/residence/for-sale/3690/zutendaal/rbv09568,RBV09568,house,289500,,3690,Zutendaal,,,,3,1,,,,,,,,
+https://immovlan.be/en/detail/residence/for-sale/3690/zutendaal/rbv09567,RBV09567,house,289500,,3690,Zutendaal,,,,3,1,,,,,,,,
+https://immovlan.be/en/detail/residence/for-sale/3690/zutendaal/rbv09566,RBV09566,house,289500,,3690,Zutendaal,,,,3,1,,,,,,,,
+https://immovlan.be/en/detail/residence/for-sale/3690/zutendaal/rbv09565,RBV09565,house,289500,,3690,Zutendaal,,,,3,1,,,,,,,,
+https://immovlan.be/en/detail/apartment/for-sale/3560/lummen/rbv09385,RBV09385,apartment,235000,,3560,Lummen,,No,1972,2,1,1,85,,,,Gas,126,
+https://immovlan.be/en/detail/residence/for-sale/3530/houthalen-helchteren/rbv09382,RBV09382,house,297000,,3530,Houthalen-Helchteren,,No,,,,,,,,,,,
+https://immovlan.be/en/detail/residence/for-sale/3700/tongeren/rwc41676,RWC41676,house,558000,1269,3700,Tongeren,Normal,,1969,4,1,,230,,16,1050,Fuel oil,,
+https://immovlan.be/en/detail/residence/for-sale/3980/tessenderlo/rbv09368,RBV09368,house,329000,1013,3980,Tessenderlo,To be renovated,No,1974,3,1,2,176,1557,,,Electricity,508,
+https://immovlan.be/en/detail/residence/for-sale/3930/hamont/rbv09114,RBV09114,house,298000,,3930,Hamont,To be renovated,No,1959,,1,2,175,363,,,Fuel oil,498,
+https://immovlan.be/en/detail/residence/for-sale/5600/villers-le-gambon/vwd16394,VWD16394,house,220000,,5600,Villers-le-Gambon,Normal,,,3,1,,155,629,,,Fuel oil,453,Yes
+https://immovlan.be/en/detail/residence/for-sale/5555/bievre/vbd77637,VBD77637,house,299000,684,5555,Bièvre,Fully renovated,Yes,1915,5,3,4,442,1220,28,750,Fuel oil,338,No
+https://immovlan.be/en/detail/residence/for-sale/5600/jamagne/vbd77049,VBD77049,house,260000,315,5600,Jamagne,Normal,No,,3,1,2,125,489,,259,Fuel oil,388,
+https://immovlan.be/en/detail/residence/for-sale/5600/philippeville/vbd76541,VBD76541,house,145000,426,5600,PHILIPPEVILLE,Normal,No,,4,1,1,238,180,,,Fuel oil,303,
+https://immovlan.be/en/detail/duplex/for-sale/5000/namur/vbd76433,VBD76433,duplex,315000,,5000,Namur,New,,2025,2,1,1,91,,7,,Gas,59,No
+https://immovlan.be/en/detail/apartment/for-sale/5000/namur/vbd76432,VBD76432,apartment,345000,,5000,Namur,New,,2025,3,3,1,104,,11,,Gas,40,No
+https://immovlan.be/en/detail/apartment/for-sale/5000/namur/vbd76430,VBD76430,apartment,215000,,5000,Namur,New,,2025,1,1,1,54,,7,,Gas,50,No
+https://immovlan.be/en/detail/ground-floor/for-sale/5000/namur/vbd76427,VBD76427,ground-floor,205000,,5000,Namur,New,,2025,1,1,1,47,,11,,Gas,84,No
+https://immovlan.be/en/detail/triplex/for-sale/5580/han-sur-lesse/vbd76065,VBD76065,triplex,175000,509,5580,Han-sur-Lesse,Normal,No,1955,2,1,1,88,,,,,449,No
+https://immovlan.be/en/detail/villa/for-sale/5031/grand-leez/vbd75957,VBD75957,house,369000,999,5031,Grand-Leez,Normal,,1974,3,1,2,141,802,,,Fuel oil,385,
+https://immovlan.be/en/detail/bungalow/for-sale/5541/hastiere-par-dela/vbd75486,VBD75486,bungalow,55000,,5541,Hastière-par-delà,New,No,2020,2,,1,49,306,,,Not specified,,
+https://immovlan.be/en/detail/residence/for-sale/5190/balatre/vbd75082,VBD75082,house,475000,,5190,Balâtre,Fully renovated,,,4,2,3,211,5400,,,Fuel oil,280,No
+https://immovlan.be/en/detail/apartment/for-sale/5660/couvin/vbd74628,VBD74628,apartment,149000,456,5660,Couvin,,No,,2,1,1,90,,,,Not specified,216,
+https://immovlan.be/en/detail/residence/for-sale/5660/aublain/vbd72942,VBD72942,house,180000,,5660,Aublain,,No,,4,2,,240,307,,,Fuel oil,486,
+https://immovlan.be/en/detail/bungalow/for-sale/5540/hastiere-lavaux/vbd72285,VBD72285,bungalow,19000,,5540,Hastière-Lavaux,To be renovated,No,,1,1,1,49,242,15,200,Not specified,,
+https://immovlan.be/en/detail/residence/for-sale/5540/hastiere-lavaux/rbs92261,RBS92261,house,59000,312,5540,Hastière-Lavaux,Normal,No,1989,2,1,1,42,,,,Electricity,,
+https://immovlan.be/en/detail/residence/for-sale/5651/thy-le-chateau/vbd66696,VBD66696,house,165000,706,5651,Thy-le-Château,To be renovated,,,4,1,1,137,398,,134,Fuel oil,460,
+https://immovlan.be/en/detail/residence/for-sale/6850/paliseul/vbd77638,VBD77638,house,99000,375,6850,Paliseul,To be renovated,No,1915,2,1,1,105,,,,Fuel oil,575,No
+https://immovlan.be/en/detail/residence/for-sale/6800/libramont/vbd77285,VBD77285,house,229000,361,6800,Libramont,To renovate,No,1870,3,1,1,115,720,15,500,Fuel oil,284,No
+https://immovlan.be/en/detail/apartment/for-sale/6880/bertrix/vbd76259,VBD76259,apartment,229900,,6880,Bertrix,New,No,2024,2,1,1,88,,32,,Gas,158,No
+https://immovlan.be/en/detail/residence/for-sale/6800/libramont-chevigny/vbd76198,VBD76198,house,370000,1422,6800,Libramont-Chevigny,Normal,No,1981,6,3,3,201,3400,30,24,Fuel oil,336,No
+https://immovlan.be/en/detail/apartment/for-sale/6880/bertrix/vbd75842,VBD75842,apartment,226800,,6880,Bertrix,New,No,,2,1,1,90,,19,5,Gas,158,No
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd75433,VBD75433,apartment,160000,,6700,Arlon,,,,1,1,1,35,,,,,85,
+https://immovlan.be/en/detail/cottage/for-sale/6717/attert/vbd75226,VBD75226,cottage,320000,250,6717,Attert,,No,1844,4,2,2,161,614,,,Fuel oil,388,
+https://immovlan.be/en/detail/residence/for-sale/6880/bertrix/vbd74296,VBD74296,house,329000,,6880,Bertrix,Excellent,No,2021,4,1,2,182,205,8,25,Fuel oil,92,No
+https://immovlan.be/en/detail/residence/for-sale/6880/bertrix/vbd74264,VBD74264,house,330000,,6880,Bertrix,New,No,2025,3,2,3,140,100,,,Not specified,,
+https://immovlan.be/en/detail/apartment/for-sale/6880/bertrix/vbd73582,VBD73582,apartment,249900,,6880,Bertrix,,,,2,1,,96,,20,,,,
+https://immovlan.be/en/detail/residence/for-sale/6880/bertrix/vbd73581,VBD73581,house,159000,,6880,Bertrix,To renovate,Yes,1930,3,1,2,150,185,20,50,Fuel oil,272,No
+https://immovlan.be/en/detail/residence/for-sale/6887/herbeumont/vbd71170,VBD71170,house,169000,502,6887,Herbeumont,Normal,Yes,1875,3,1,1,180,346,14,57,,457,No
+https://immovlan.be/en/detail/residence/for-sale/6838/corbion/vbd70613,VBD70613,house,349000,,6838,Corbion,New,No,2024,3,2,,220,303,16,150,Gas,159,No
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd78127,VBD78127,house,,691,6900,Marche-en-Famenne,To be renovated,No,,3,1,,,400,,,Fuel oil,464,
+https://immovlan.be/en/detail/apartment/for-sale/6800/libramont-chevigny/vbd78118,VBD78118,apartment,154900,939,6800,Libramont-Chevigny,,No,1960,2,1,2,93,,,,Electricity,272,
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbd78001,VBD78001,apartment,195000,714,6900,Marche-en-Famenne,Excellent,No,2018,1,,1,55,,20,,Gas,97,
+https://immovlan.be/en/detail/residence/in-public-sale/6780/messancy/vbd77943,VBD77943,house,250000,716,6780,Messancy,Normal,No,1956,3,1,2,146,256,,,Fuel oil,383,
+https://immovlan.be/en/detail/residence/for-sale/6953/ambly/vbd77854,VBD77854,house,165000,567,6953,Ambly,To be renovated,No,,2,1,2,100,,,,,210,
+https://immovlan.be/en/detail/apartment/for-sale/6600/bastogne/vbd77851,VBD77851,apartment,245000,,6600,Bastogne,Normal,,2024,1,1,,86,,5,,Gas,63,
+https://immovlan.be/en/detail/apartment/for-sale/6880/bertrix/vbd77815,VBD77815,apartment,145000,666,6880,Bertrix,Normal,No,1992,2,2,1,78,,,,Electricity,372,No
+https://immovlan.be/en/detail/residence/for-sale/6840/neufchateau/vbd77814,VBD77814,house,229000,376,6840,Neufchâteau,Fully renovated,No,1920,3,1,2,120,64,25,,Fuel oil,234,No
+https://immovlan.be/en/detail/residence/for-sale/6821/lacuisine/vbd77636,VBD77636,house,459000,,6821,Lacuisine,Normal,No,1850,3,2,2,480,410,35,75,Fuel oil,205,No
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd77631,VBD77631,house,549000,1680,6940,Durbuy,Normal,No,2003,5,1,3,235,1539,50,750,Fuel oil,143,Yes
+https://immovlan.be/en/detail/residence/for-sale/6840/neufchateau/vwd16391,VWD16391,house,185000,,6840,Neufchâteau,To be renovated,,1980,3,1,,120,,,,Wood,,
+https://immovlan.be/en/detail/residence/for-sale/6840/hamipre/vbd77288,VBD77288,house,289900,,6840,Hamipré,New,No,2025,3,1,2,120,853,9,,,,No
+https://immovlan.be/en/detail/residence/for-sale/6662/tavigny/vbd77236,VBD77236,house,215000,556,6662,Tavigny,Normal,No,1850,2,,2,,276,,,Fuel oil,179,
+https://immovlan.be/en/detail/apartment/for-sale/6791/athus/vbd77190,VBD77190,apartment,190000,,6791,Athus,Normal,,,2,1,1,70,,2,,Fuel oil,260,No
+https://immovlan.be/en/detail/ground-floor/for-sale/6791/athus/vbd77189,VBD77189,ground-floor,250000,,6791,Athus,Normal,,,3,1,3,86,,,220,Fuel oil,356,No
+https://immovlan.be/en/detail/apartment/for-sale/6791/athus/vbd77188,VBD77188,apartment,599000,,6791,Athus,Normal,,,6,3,3,,,,220,Fuel oil,260,No
+https://immovlan.be/en/detail/residence/for-sale/6730/rossignol/vbd77184,VBD77184,house,80000,706,6730,Rossignol,To be renovated,No,1930,1,,,310,,,,Not specified,,
+https://immovlan.be/en/detail/apartment/for-sale/6791/athus/vbd77166,VBD77166,apartment,160000,,6791,Athus,Fully renovated,,,1,1,,58,,,,Fuel oil,399,

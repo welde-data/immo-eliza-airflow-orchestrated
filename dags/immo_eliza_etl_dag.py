@@ -46,8 +46,8 @@ with DAG(
     },
     description='Testing Schedule: Triggering in 10 minutes',
     # --- TEST SCHEDULE ---
-    # Trigger at 20:05 (8:05 PM) today
-    schedule_interval='05 20 * * *', 
+    # Trigger at 21:10 (9:10 PM) today
+    schedule_interval='10 21 * * *', 
     start_date=days_ago(0), # Start today
     catchup=False,
     tags=['test_schedule'],
