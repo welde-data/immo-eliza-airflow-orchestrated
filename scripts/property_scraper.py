@@ -1,7 +1,6 @@
 """
 Property Scraper - Working-base + targeted fixes
 
-Fixes:
 - heating_type no longer becomes numeric (1, 90, etc.)
 - cadastral_income_eur extracted via (1) h4 mapping, (2) regex scan fallback
 - swimming_pool stays "Yes"/"No"/NA

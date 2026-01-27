@@ -101,7 +101,7 @@ class ListingScraper:
             if link:
                 self.links.append(link)
 
-    def call_driver(self, max_pages: int = 2) -> None:
+    def call_driver(self, max_pages: int = 50) -> None:
         """
         Runs Selenium over provinces/pages to collect listing URLs.
         """
@@ -181,7 +181,7 @@ class ListingScraper:
         return file_path
 
 
-def collect_urls(max_pages: int = 2, output_file: str = "property_urls.csv") -> str:
+def collect_urls(max_pages: int = 50, output_file: str = "property_urls.csv") -> str:
     scraper = ListingScraper()
     scraper.call_driver(max_pages=max_pages)
     return scraper.save_to_csv(output_file)

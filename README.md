@@ -13,12 +13,15 @@ The system implements a modular ETL architecture with PostgreSQL-backed storage 
 
 ## 📌 Project Scope
 
-This project implements a **scheduled, reproducible ETL pipeline** for real estate market data ingestion and processing.
+This project implements a **scheduled, reproducible ETL pipeline** for real estate market data ingestion and processing, fully containerized with **Docker** and orchestrated with **Apache Airflow**.
 
 The platform is designed to:
 
 - Collect structured and semi-structured property data  
+- Ingest property listings for sale across **all 11 Belgian provinces**  
+- Crawl the **first 50 result pages per province**  
 - Support incremental ingestion through scheduled execution  
+- Update datasets **automatically every Friday at 00:00**  
 - Implement layered data organization  
 - Produce ML-ready datasets  
 - Provide operational observability via Apache Airflow  
@@ -26,11 +29,13 @@ The platform is designed to:
 
 The pipeline is designed as a **data platform foundation**, not a single-use scraper, and is executed automatically on a scheduled basis.
 
+
+
 ---
 
 ## 🏛️ Architecture Overview
 
-Immo Eliza is a containerized, Airflow-orchestrated ETL pipeline composed of:
+Immo Eliza is composed of the following core components:
 
 - **Orchestration:** Apache Airflow 2.x  
 - **Compute:** Python-based processing services  
@@ -40,14 +45,6 @@ Immo Eliza is a containerized, Airflow-orchestrated ETL pipeline composed of:
 PostgreSQL is used exclusively for Airflow metadata and workflow state management.  
 All pipeline datasets are persisted in the local filesystem.
 
-
----
-
-## 🔄 Data Flow
-
-Source → Extract → Transform → Load → Export
-
-The pipeline follows a deterministic ETL model with clear task boundaries and idempotent execution.
 
 ---
 
@@ -67,7 +64,7 @@ The pipeline follows a deterministic ETL model with clear task boundaries and id
 - Deterministic execution  
 - Idempotent processing  
 - Reproducible deployment  
-- Clear data lineage via directory structure  
+
 ## 📂 Repository Structure
 
 ```bash
@@ -83,8 +80,8 @@ immo-eliza-airflow-ml/
 │   ├── property_scraper.py
 │   └── data_cleaner.py
 ├── data/                      # Data lake structure
-│   ├── raw/                   # Raw scraped data (Bronze)
-│   ├── processed/             # Cleaned data (Silver)
+│   ├── raw/                   # Raw scraped data(Bronze)
+│   ├── processed/             # Cleaned data(Silver)
 │   └── urls/                  # URL discovery metadata
 ├── logs/                      # Airflow logs
 ├── plugins/                   # Airflow plugins
@@ -95,30 +92,23 @@ immo-eliza-airflow-ml/
 ```
 ## 🔄 ETL Pipeline
 
-The pipeline is implemented as a deterministic, Airflow-orchestrated ETL workflow composed of the following stages:
+The pipeline consists of three logical stages:
 
 1. **URL Discovery (`collect_urls`)**  
-   Collects active property listing URLs across Belgian provinces with controlled request rates.
-
 2. **Property Extraction (`scrape_properties`)**  
-   Scrapes structured property attributes from each listing page.
-
-3. **Data Transformation (`clean_data`)**  
-   Cleans, types, and normalizes extracted data.
+3. **Data Transformation (`clean_data`)**
 ---
 
 ## 📁 Data Flow
 
 ```text
-Source Website
+Source Website(https://immovlan.be/en/)
    ↓
 data/urls/property_urls.csv
    ↓
 data/raw/properties_raw.csv
    ↓
 data/processed/properties_cleaned.csv
-   ↓
-ML / Analytics Consumption
 ```
 ## 🚀 Deployment
 
@@ -166,6 +156,7 @@ SCRAPING_DELAY_MAX=0.25
 
 ```bash
 docker-compose logs -f
+```
 ## 🛠️ Troubleshooting
 
 - Check container status and logs:
@@ -180,9 +171,10 @@ docker-compose logs
 - Incremental ingestion optimization  
 - Monitoring and alerting  
 
-## 👥 Contributors 
+This project was developed as part of the **AI & Data Science Bootcamp**, specializing in **Data Engineering**, at **`</becode>`**.
 
-This miniproject is part of AI & Data Science Bootcamp training at **`</becode>`** and it was done by: 
-
+**Author:**  
 - Welederufeal Tadege [LinkedIn](https://www.linkedin.com/in/) | [Github](https://github.com/welde2001-bot) 
-under the supervision of AI & data science coach ***Vanessa Rivera Quinones***
+
+**Supervision:**  
+- Vanessa Rivera Quinones — AI & Data Science Coach

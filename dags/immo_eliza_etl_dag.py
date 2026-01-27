@@ -7,26 +7,25 @@ from airflow import DAG
 from airflow.operators.python import PythonOperator
 from airflow.utils.dates import days_ago
 
-# Critical: Ensures 'scripts' folder is discoverable
+# Critical: Inject project root for script discovery
 sys.path.append('/opt/airflow')
 
-# Import your verified working logic
 from scripts.url_collector import collect_urls
 from scripts.property_scraper import scrape_properties
 
 def run_cleaner_production():
     """
-    Surgical execution of the verified data_cleaner.py.
+    Stage 3: Verified Data Cleaning with mandatory disk sync.
     """
     # 1. Professional Sleeptime
-    # Essential for stable file I/O in Docker/WSL after Stage 2
+    # Mandatory "Sync" to ensure Stage 2 files are fully written/unlocked
     print("⏳ Stage 2 complete. Syncing disk for 30s...")
     time.sleep(30) 
 
-    # 2. Verified Path and Filename
+    # 2. Surgical Internal Path
     script_path = "/opt/airflow/scripts/data_cleaner.py"
 
-    # 3. Dynamic Execution
+    # 3. Dynamic Script Loading
     if not os.path.exists(script_path):
         raise FileNotFoundError(f"Cleaner script missing at {script_path}")
 
@@ -34,23 +33,23 @@ def run_cleaner_production():
     module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(module)
     
-    print(f"🚀 Running Stage 3: {script_path}")
+    print(f"🚀 Initializing verified Cleaner from {script_path}")
     module.clean_properties()
     print("✅ Pipeline Success: Gold Layer Updated.")
 
+# --- MIDNIGHT PRODUCTION CONFIGURATION ---
 with DAG(
     'immo_eliza_complete_etl',
     default_args={
-        'owner': 'gemini_de',
-        'retries': 1,
+        'owner': 'welde',
+        'retries': 2,
     },
-    description='Testing Schedule: Triggering in 10 minutes',
-    # --- TEST SCHEDULE ---
-    # Trigger at 21:10 (9:10 PM) today
-    schedule_interval='10 21 * * *', 
-    start_date=days_ago(0), # Start today
+    description='Production ETL: Scheduled for Midnight UTC',
+    # CRON: 00:00 every day
+    schedule_interval='0 0 * * *', 
+    start_date=days_ago(1),
     catchup=False,
-    tags=['test_schedule'],
+    tags=['production', 'midnight_run'],
 ) as dag:
 
     task_collect = PythonOperator(
@@ -68,5 +67,5 @@ with DAG(
         python_callable=run_cleaner_production
     )
 
-    # Dependency Chain
+    # The Chain of Success
     task_collect >> task_scrape >> task_clean
