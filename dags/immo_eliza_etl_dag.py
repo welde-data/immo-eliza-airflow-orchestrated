@@ -46,7 +46,7 @@ with DAG(
     },
     description='Production ETL: Scheduled for Midnight UTC',
     # CRON: 00:00 every day
-    schedule_interval='0 0 * * *', 
+    schedule_interval='0 0 * * 5', 
     start_date=days_ago(1),
     catchup=False,
     tags=['production', 'midnight_run'],
